@@ -12,7 +12,7 @@ This repository contains the backend code for the Fetch Backend Challenge implem
 2. Clone repository
 
 ```
-git clone https://github.com/parthjain99/Parth-Jain-Fetch-Backend-Challenge-Node.git
+git clone https://github.com/parthjain99/Fetch-backend-Parth-Jain.git
 ```
 
 ### Starting the server
